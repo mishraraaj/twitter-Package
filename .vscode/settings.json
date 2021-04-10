@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "d:\\projects\\twttr\\twitter\\Scripts\\python.exe",
+    "python.testing.pytestArgs": [
+        "Tweets"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": true
+}
